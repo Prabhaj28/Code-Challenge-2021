@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jdbc:hsqldb:mem://localhost/challenge" uuid="cf5fb371-0856-4974-b948-ccd70538de8a">
+      <driver-ref>hsqldb.local</driver-ref>
+      <synchronize>true</synchronize>
+      <configured-by-url>true</configured-by-url>
+      <jdbc-driver>org.hsqldb.jdbc.JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:hsqldb:mem://localhost/challenge</jdbc-url>
+      <driver-properties>
+        <property name="server.database.0" value="mem:challenge" />
+        <property name="server.dbname.0" value="challenge" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
